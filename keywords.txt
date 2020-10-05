@@ -1,0 +1,8 @@
+LCD5110         KEYWORD1
+
+clear           KEYWORD2
+begin           KEYWORD2
+on              KEYWORD2
+off             KEYWORD2
+print           KEYWORD2
+println         KEYWORD2
